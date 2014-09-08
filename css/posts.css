@@ -1,0 +1,116 @@
+.post {
+    display: table;
+    position: relative;
+    min-height: 350px;
+}
+
+.author_info {
+    width: 160px;
+    background-color: #D8DAE2;
+    border-right: 1px solid #999999;
+    position: absolute;
+    float: none;
+    bottom: 0;
+    top: 0;
+}
+
+.post_author {
+    font-size: 18px;
+    margin-left: 15px;
+    color: #3C4855;
+    text-decoration: none;
+}
+
+.post_author:hover {
+    font-size: 18px;
+    margin-left: 15px;
+    color: #3C4855;
+    text-decoration: none;
+    text-shadow: 0 1px 10px #254464;
+}
+
+.author_info ul {
+    padding: 10px;
+    width: 140px;
+    margin: 10px;
+}
+
+.author_info li {
+    list-style: none;
+    margin: 3px 0;
+}
+
+.author_info li span {
+    width: 50px;
+    display: inline-block;
+    margin-left: 20px;
+    text-shadow: 1px 0 6px #A1C2BF;
+}
+
+.post_item {
+    width: 800px;
+    margin-left: 160px;
+}
+
+.post_item_control {
+    height: 35px;
+    border-bottom: 1px solid #999999;
+    margin-left: 20px;
+}
+
+.post_item_article {
+    padding: 20px;
+}
+
+.post_item_title {
+    height: 30px;
+    font-size: 18px;
+    text-shadow: 0 0 10px #999999;
+    text-align: center;
+}
+
+.post_item_content {
+
+}
+
+.post_divider {
+    height: 12px;
+    border-top: 1px solid #999999;
+    border-bottom: 1px solid #999999;
+    background-color: #C9C9C9;
+}
+
+.postDeleteBtn {
+    width: 30px;
+    height: 35px;
+    padding: 9px;
+    font-size: 12px;
+    cursor: pointer;
+    color: #ffffff;
+    text-shadow: 0 1px 3px #000000;
+    opacity: 0.2;
+}
+
+.postDeleteBtn:hover {
+    width: 30px;
+    height: 35px;
+    padding: 9px;
+    font-size: 12px;
+    cursor: pointer;
+    color: #ffffff;
+    text-shadow: 0 1px 3px #000000;
+    opacity: 0.9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

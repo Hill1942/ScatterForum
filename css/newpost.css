@@ -1,0 +1,54 @@
+#newpostModal {
+
+}
+
+#newpostModalContent {
+    width: 640px;
+    background-color: #eeeeee;
+}
+
+#newpostForm {
+
+}
+
+#newpost_title {
+    width: 400px;
+    margin-bottom: 8px;
+    outline: none;
+    border: 1px solid #999999;
+    padding: 2px 5px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+#newpost_content {
+
+}
+
+
+
+#newpost_control {
+    margin-top: 15px;
+}
+
+
+#newpost_submit {
+    border: 1px solid #8799C0;
+    border-radius: 5px;
+    box-shadow: 0px 1px 3px #7999AF;
+    background: -webkit-linear-gradient(top, #92B5B8 30%, #5B79A5 100%);
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

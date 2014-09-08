@@ -1,0 +1,87 @@
+
+@import url("groups.css");
+
+@import url("forums.css");
+
+
+
+.module_item {
+    border-bottom: 1px solid #cccccc;
+}
+
+.module_item_category {
+    border: none;
+    padding: 5px 5px 5px 20px;
+}
+
+.module_item_category p{
+    margin: 0;
+    line-height: 1.5;
+}
+
+
+.module_item_threadnums {
+
+}
+
+.module_item_last {
+
+}
+
+.module_item_last p{
+
+}
+
+.module_img_title {
+    width: 30px;
+    margin: 4px 10px;
+    padding-top: 6px;
+}
+
+#link_module {
+
+}
+
+#link_module_title {
+    height: 30px;
+    border-bottom: 1px solid #999999;
+    background-color: #bbbbbb;
+}
+
+#link_module_list {
+    margin: 10px;
+    padding: 0;
+}
+
+#link_module_list li {
+    list-style: none;
+    display: table-cell;
+    padding: 5px 10px;
+    width: 100px;
+}
+
+#link_module_list a {
+    color: #0C4D79;
+    font-size: 14px;
+    text-shadow: 0 0px 1px #C2C2C2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

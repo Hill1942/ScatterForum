@@ -1,0 +1,152 @@
+html {
+    background-repeat: no-repeat;
+    background-image: -webkit-linear-gradient(top, #3EDD9D 7%, #7482C7 80%, #226599 100%);
+    background-image: -moz-linear-gradient(top, #3EDD9D 7%, #7482C7 80%, #226599 100%);
+    background-image: -ms-linear-gradient(top, #3EDD9D 7%, #7482C7 80%, #226599 100%);
+    background-image: linear-gradient(top, #3EDD9D 7%, #7482C7 80%, #226599 100%);
+    min-height: 100%;
+}
+
+body {
+    margin: 0;
+    background: none;
+    font-family: Avenir,Lucida Grande,Calibri,Trebuchet MS,Helvetica,Arial,Hiragino Sans GB,WenQuanYi Micro Hei,STHeiti,Microsoft Jhenghei,Nanum Gothic,sans-serif;
+}
+
+#main_wrapper {
+
+}
+
+#main_body {
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 30px rgba(122, 122, 112, 22);
+    background-color: #efefef;
+}
+
+.bodytitlebar {
+    height: 30px;
+    border-bottom: 1px solid #999999;
+    background-color: #bbbbbb;
+    border-radius: 8px 8px 0 0;
+}
+
+.bodybottombar {
+    height: 30px;
+    border-bottom: 1px solid #999999;
+    background-color: #bbbbbb;
+    border-radius: 0 0 8px 8px;
+    color: #ffffff;
+    text-shadow: 0 0 3px #000000;
+    line-height: 30px;
+    padding: 0 0 0 20px;
+}
+
+
+
+
+#main_module {
+    min-height: 350px;
+}
+
+.module {
+    width: 100%;
+}
+
+.appleCloseBtn {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background: transparent url(../images/fancybox.png) -40px 0;
+}
+
+.errorMessage {
+    font-size: 14px;
+    color: #ff1100;
+    text-shadow: 0px 0px 1px #FC3535;
+    padding: 2px 20px;
+    background: url(../images/check_error.gif) no-repeat;
+    line-height: 0.8;
+    margin-bottom: 14px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.up {
+    display: block;
+}
+
+.full {
+    width: 100%;
+}
+
+.hide {
+    display:none;
+}
+
+.show {
+    display: block;
+}
+
+.common_label {
+    margin: 0;
+    width: 100px;
+    color: #ffffff;
+    font-weight: normal;
+    text-shadow: 0 1px 3px #999999;
+}
+
+.common_input {
+    border: none;
+    box-shadow: 0 0 5px #00FFA4;
+    width: 200px;
+    height: 25px;
+    padding: 5px 5px;
+    border-radius: 3px;
+    outline: none;
+}
+
+.common_select {
+    height: 25px;
+    border: none;
+    min-width: 80px;
+    outline: none;
+    box-shadow: 0 0 5px #00FFA4;
+    border-radius: 3px;
+    vertical-align: middle;
+}
+
+.common_btn {
+    padding: 0;
+    border-radius: 5px;
+    min-width: 60px;
+    height: 25px;
+    box-shadow: 0 0 3px #00FFA4;
+    color: #000000;
+    background-color: #FFFFFF;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

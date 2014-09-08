@@ -1,0 +1,39 @@
+#admin_body {
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#admin_login_form {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 160px;
+}
+
+#admin_header {
+    margin-bottom: 20px;
+    margin-left: 80px;
+}
+
+.adminLoginItem {
+    margin: 10px 0;
+}
+
+#adminLoginBtn {
+    margin-left: 103px;
+    margin-top: 20px;
+}
+
+#adminError {
+    font-size: 14px;
+    color: #ff1100;
+    text-shadow: 0px 0px 1px #FC3535;
+    padding: 2px 20px;
+    line-height: 0.8;
+    margin-bottom: 14px;
+    height: 15px;
+    margin-left: 85px;
+}
+
+

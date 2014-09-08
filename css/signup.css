@@ -1,0 +1,116 @@
+#signup_wrapper {
+
+}
+
+#signup_body {
+    width: 980px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 30px rgba(122, 122, 112, 22);
+    background-color: #efefef;
+}
+
+.bodytitlebar {
+    height: 30px;
+    border-bottom: 1px solid #999999;
+    background-color: #bbbbbb;
+    border-radius: 8px 8px 0 0;
+}
+
+#signup_main {
+    height: 350px;
+}
+
+.signupMessage {
+    font-size: 18px;
+    color: #3b6e8e;
+    text-shadow: 0px 1px 1px #97ACC0;
+}
+
+
+
+#signup_main form {
+    margin: 50px auto 0 auto;
+    width: 500px;
+}
+
+#signupForm {
+    float: left;
+    border-right: 1px solid #888888;
+    height: 220px;
+}
+
+.signupFormItem {
+    margin: 20px 40px 20px 0;
+}
+
+.signupFormItem label {
+    width: 80px;
+}
+
+.signupFormItem input {
+    outline: none;
+    border: 1px solid #999999;
+    border-radius: 5px;
+    background-color: #ffffff;
+    width: 160px;
+    height: 25px;
+    padding: 3px 6px;
+    font-size: 13px;
+}
+
+
+#signupExtra {
+    float: left;
+    margin-left: 30px;
+    margin-top: 80px;
+}
+
+#signupEnter {
+    margin-top: 30px;
+}
+
+#signupBtn {
+    outline: none;
+    border: 1px solid #999999;
+    border-radius: 10px;
+    background-color: #dddddd;
+    height: 25px;
+    width: 60px;
+    text-align: center;
+}
+
+#signupCheckbox {
+    margin: 0 0 0 10px;
+    vertical-align: middle;
+}
+
+#signupEnter span {
+
+}
+
+#signup_succeed {
+    display: none;
+    width: 450px;
+    margin: 140px auto 0 auto;
+    font-size: 18px;
+    color: #C48B26;
+    text-shadow: 0 0 10px #FFB352;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

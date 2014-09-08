@@ -1,0 +1,76 @@
+@import url("threads.css");
+
+.forum {
+    border-bottom: 1px solid #cccccc;
+}
+
+.forum_header {
+    border: none;
+    padding: 5px 5px 5px 20px;
+    width: 650px;
+}
+
+.forum_header p{
+    margin: 0;
+    line-height: 1.5;
+}
+
+.forum_header_icon {
+    width: 30px;
+    margin: 10px 5px 5px 5px;
+}
+
+.forum_title {
+    position: relative;
+}
+
+.forum_title p {
+
+}
+
+.forum_statistic {
+    width: 100px;
+}
+
+.forum_lastpost {
+
+}
+
+.lastpost_title {
+    width: 200px;
+    overflow: hidden;
+    height: 20px;
+    margin: 0 0 5px 0;
+}
+
+.forumDeleteBtn {
+    position: absolute;
+    right: -20px;
+    font-size: 12px;
+    bottom: 8px;
+    color: #ffffff;
+    text-shadow: 0 1px 3px #000000;
+    cursor: pointer;
+    opacity: 0.2;
+}
+
+.forumDeleteBtn:hover {
+    position: absolute;
+    right: -20px;
+    font-size: 12px;
+    bottom: 8px;
+    color: #ffffff;
+    text-shadow: 0 1px 3px #000000;
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+
+
+
+
+
+
+
+
+

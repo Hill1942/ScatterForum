@@ -1,0 +1,155 @@
+
+#wrapper {
+    position: relative;
+    display: table;
+    min-height: 300px;
+    width: 100%;
+}
+
+.highlight {
+    background-color: #4B9E7D;
+    text-shadow: 0 1px 3px #000000;
+}
+
+.adminError {
+    font-size: 14px;
+    color: #ff1100;
+    text-shadow: 0px 0px 1px #FC3535;
+    padding: 2px 20px;
+    line-height: 0.8;
+    height: 15px;
+    margin-left: 85px;
+}
+
+
+
+#admin_control {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 200px;
+}
+
+#extra_span {
+    display: inline-block;
+    width: 200px;
+    height: 30px;
+    background-color: #999999;
+    border-bottom: 1px solid #797979;
+    border-right: 1px solid #797979;
+}
+
+#title {
+    background-color: #999999;
+    border-bottom: 1px solid #797979;
+}
+
+#titleContent {
+    margin-left: 30px;
+    font-size: 24px;
+    text-shadow: 0 1px 8px #000000;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#titleContent:hover {
+    margin-left: 30px;
+    font-size: 24px;
+    text-shadow: 0 1px 8px #000000;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#controlBar {
+
+}
+
+#admin_content {
+    margin-left: 200px;
+}
+#controlBar ul {
+    margin: 0;
+    padding: 0;
+}
+
+.controlItem {
+    list-style: none;
+    margin-bottom: 1px;
+}
+
+.controlItem a {
+    color: #ffffff;
+    display: inline-block;
+    width: 200px;
+    padding: 5px 20px;
+    background-color: #999999;
+    text-decoration: none;
+}
+
+.controlItem a:hover {
+    color: #ffffff;
+    display: inline-block;
+    width: 200px;
+    padding: 5px 20px;
+    background-color: #4B9E7D;
+    text-decoration: none;
+}
+
+.admin_nav {
+    margin: 0;
+    height: 30px;
+    background-color: #999999;
+    padding: 0 40px;
+}
+
+.admin_nav >li {
+    list-style: none;
+    float: left;
+    width: 80px;
+    height: 30px;
+    padding: 5px 10px;
+    color: #ffffff;
+    text-align: center;
+    cursor: pointer;
+}
+
+.admin_pane {
+
+}
+
+.admin_nav_pane {
+    display: none;
+    margin: 30px 40px;
+}
+
+.panelItem {
+    margin: 50px 0;
+}
+
+.panelItemTitle {
+    font-size: 20px;
+    color: #FFFFFF;
+    text-shadow: 0 1px 3px #000000;
+    margin-bottom: 10px;
+}
+
+.panelItemContent {
+
+}
+
+.panelItemFormItem {
+    margin: 10px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

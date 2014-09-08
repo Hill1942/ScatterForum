@@ -1,0 +1,165 @@
+#header_wrapper {
+
+}
+
+#header {
+    width: 980px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    padding: 30px 0;
+}
+
+#header_title {
+    float: left;
+}
+
+#header_menu {
+    position: absolute;
+    top: 3px;
+    right: 0;
+    margin: 0;
+    padding: 0;
+}
+
+#header_menu li {
+    display: inline-block;
+    margin: 2px;
+}
+
+#header_menu a {
+    text-decoration: none;
+    color: #4B5288;
+    font-size: 16px;
+    font-weight: bold;
+    text-shadow: 1px 1px 9px #7085C7;
+}
+
+#header form {
+    margin: 0;
+    position: absolute;
+    top: 52px;
+    left: 260px;
+}
+
+#header_search {
+    height: 30px;
+    position: relative;
+    width: 250px;
+}
+
+#header_search img {
+    float: left;
+    width: 16px;
+    display: inline-block;
+    position: absolute;
+    top: 6px;
+    left: 6px;
+}
+#header_search input {
+    outline: none;
+    padding: 3px 3px 3px 25px;
+    float: left;
+    border: 1px solid #999999;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #5AADA3;
+    width: 240px;
+    height: 25px;
+    background-color: #ffffff;
+}
+
+#loginModalContent {
+    box-shadow: 0px 0px 40px rgba(128, 128, 128, 100);
+    background-color: #efefef;
+    height: 400px;
+}
+
+.loginMessage {
+    font-size: 18px;
+    color: #3b6e8e;
+    text-shadow: 0px 1px 1px #97ACC0;
+}
+
+#loginModalContent form {
+    margin: 40px auto 20px 30px;
+    height: 330px;
+}
+
+#loginFormMain {
+    float: left;
+    border-right: 1px solid #888888;
+    height: 220px;
+}
+
+.loginFormItem {
+    margin: 20px 40px 20px 0;
+}
+
+.loginFormItem label {
+    width: 80px;
+}
+
+.loginFormItem input {
+    outline: none;
+    border: 1px solid #999999;
+    border-radius: 5px;
+    background-color: #ffffff;
+    width: 160px;
+    height: 25px;
+    padding: 3px 6px;
+    font-size: 13px;
+}
+
+#loginExtra {
+    float: left;
+    margin-left: 30px;
+}
+
+#loginExtra h4 {
+    font-size: 16px;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+#loginEnter {
+
+ }
+
+#loginBtn {
+    outline: none;
+    border: 1px solid #999999;
+    border-radius: 10px;
+    background-color: #dddddd;
+    height: 25px;
+    width: 60px;
+    text-align: center;
+}
+
+#loginCheckBox {
+    margin: 0 0 0 10px;
+    vertical-align: middle;
+}
+
+#loginEnter span {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

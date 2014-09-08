@@ -1,0 +1,49 @@
+
+@import url("newpost.css");
+
+.forum_control {
+    height: 54px;
+    border-bottom: 1px solid #999999;
+    background-color: #C4D5C6;
+}
+
+.forum_control div:nth-child(1){
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.forum_control div:nth-child(2){
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.forum_control button {
+    width: 110px;
+    height: 30px;
+    border: none;
+    background: -webkit-linear-gradient(top, #537FCE 50%,#436F7A 100%);
+    background: -moz-linear-gradient(top, #537FCE 50%,#436F7A 100%);
+    background: -ms-linear-gradient(top, #537FCE 50%,#436F7A 100%);
+    background: linear-gradient(top, #537FCE 50%,#436F7A 100%);
+    border-radius: 3px;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
